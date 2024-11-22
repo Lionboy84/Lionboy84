@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lionboy84
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning html
+- 👀 I’m interested in learning to code  
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on no idea 
 - 📫 How to reach me ...
 
